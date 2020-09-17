@@ -1,0 +1,19 @@
+{
+  "token": "NzU1ODUxNzM4ODAzODYzNjU0.X2JTyQ.FKPJ0Bl71aXmvG7dDhjQ5z_UQeI", 
+  "prefix": "-",
+  "guild": "754763796282736791",
+  "ticket_category": "755850502042026085",
+  "SupportROLE": "MTA : High Staff",
+  "generic": {
+    "footer": "K-TICKET (DM)",
+    "footerURL": "https://cdn.discordapp.com/icons/693858100003733597/4e15c81e619b8ea9a611a984f6a051fd.png?size=1024",
+    "messages": {
+      "noPermissions": "أذونات غير صالحة",
+      "error": "خطأ غير معروف"
+    },
+    "colour": {
+      "error": "8B0000",
+      "Kahrbaa": "000000"
+    }
+  }
+}
